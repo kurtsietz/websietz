@@ -543,7 +543,7 @@ export const backgrounds: Record<Backgrounds, string> = styleVariants({
     backgroundColor: theme.colors.primary,
   },
   muted: {
-    color: theme.colors.primary,
+    color: theme.colors.black,
     backgroundColor: theme.colors.muted,
   },
 })
