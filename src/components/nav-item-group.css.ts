@@ -125,7 +125,7 @@ export const navLinkListLink = style([
         borderRadius: theme.radii.button,
         ":hover": {
           background: theme.colors.muted,
-          color: "inherit",
+          color: "black",
         },
       },
     },
