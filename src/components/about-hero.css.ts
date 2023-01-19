@@ -20,5 +20,8 @@ export const aboutHeroText = style({
 })
 
 export const aboutHeroImage = style({
-  width: "100%",
+  width: "50%",
+  borderRadius: "1000px",
+  position: "relative",
+  left: "25%",
 })
