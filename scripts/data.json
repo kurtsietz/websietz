@@ -6299,10 +6299,10 @@
       },
       "fields": {
         "title": {
-          "en-US": "Gatsby Contentful Homepage Starter"
+          "en-US": "Kurtus Sietz Frontend Developer"
         },
         "description": {
-          "en-US": "A Gatsby Starter for building a homepage with Contentful"
+          "en-US": "Portfolio and Resume for Kurtus Sietz"
         },
         "image": {
           "en-US": {
@@ -6437,7 +6437,7 @@
           "en-US": "Gatsby + Contentful"
         },
         "heading": {
-          "en-US": "Gatsby Contentful Homepage Starter"
+          "en-US": "Kurtus Sietz"
         },
         "image": {
           "en-US": {
